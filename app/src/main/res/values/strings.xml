@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidDialogs</string>
+    <string-array name="colors" >
+        <item> Red </item>
+        <item> Green </item>
+        <item> Blue </item>
+        <item> White </item>
+    </string-array>
+</resources>
